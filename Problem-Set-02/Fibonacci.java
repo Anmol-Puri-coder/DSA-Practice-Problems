@@ -1,6 +1,4 @@
 package com.dsa;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -19,7 +17,6 @@ public class Fibonacci {
             num1 = num2;
             num2 = num3;
         }
-
     }
 }
 
